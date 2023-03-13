@@ -2,7 +2,6 @@
 - 👀 I’m interested in technology, cars, watches and more!
 - 🌱 I’m currently learning more about Data Science
 - 💞️ I’m looking to collaborate on Data Science, Machine Learning and Arduino projects
-- 📫 How to reach me: https://linktr.ee/v.martemucci
 
 <!---
 raimondoDiSangro/raimondoDiSangro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
