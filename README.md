@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vincenzo
+- 👋 Hi, I’m "Raimondo"
 - 👀 I’m interested in technology, cars, watches and more!
 - 🌱 I’m currently learning more about Data Science
 - 💞️ I’m looking to collaborate on Data Science, Machine Learning and Arduino projects
