@@ -1,4 +1,4 @@
-- 👋 Hi, I’m "Raimondo"
+- 👋 Hi, I’m "Raimondo" (not my real name)
 - 👀 I’m interested in technology, cars, watches and more!
 - 🌱 I’m currently learning more about Data Science
 - 💞️ I’m looking to collaborate on Data Science, Machine Learning and Arduino projects
