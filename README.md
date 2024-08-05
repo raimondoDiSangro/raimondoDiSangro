@@ -1,6 +1,6 @@
 # Vincenzo
 
-## Report Developer II @ Rev.io | Data Enthusiast | Tech Speaker
+## Report Developer II @ Rev.io | Data&Coding Enthusiast 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&label=LinkedIn)](https://www.linkedin.com/in/vincenzo-m-9197a553/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&label=GitHub)](https://github.com/raimondoDiSangro) 
