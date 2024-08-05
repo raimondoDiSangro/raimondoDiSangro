@@ -2,7 +2,7 @@
 
 ## Report Developer II @ Rev.io | Data Enthusiast | Tech Speaker
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&label=LinkedIn)](https://www.linkedin.com/in/vincenzo-martemucci/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&label=LinkedIn)](https://www.linkedin.com/in/vincenzo-m-9197a553/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&label=GitHub)](https://github.com/raimondoDiSangro) 
 
 ---
@@ -61,8 +61,8 @@ I specialize in data acquisition, SQL optimization, and coding.
 
 ## 🏆 Affiliations & Volunteering
 
-- Member of IEEE
-- Member of the Technology Association of Georgia
+- Member of [IEEE](https://www.ieee.org/)
+- Member of the [Technology Association of Georgia](https://www.tagonline.org/)
 - Volunteer for the Musical Association Camerata Mozartiana
 
 ---
