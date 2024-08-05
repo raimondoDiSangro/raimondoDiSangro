@@ -55,7 +55,7 @@ I specialize in data acquisition, SQL optimization, and coding.
   - Università degli Studi Aldo Moro, Bari, Italy (2022)
 
 - **Master of Arts in Music**
-  -Conservatorio di Musica "Egidio Romualdo Duni", Matera, Italy (2013)
+  - Conservatorio di Musica "Egidio Romualdo Duni", Matera, Italy (2013)
 
 ---
 
