@@ -3,7 +3,7 @@
 ## Report Developer II @ Rev.io | Data Enthusiast | Tech Speaker
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&label=LinkedIn)](https://www.linkedin.com/in/vincenzo-martemucci/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&label=GitHub)](https://github.com/username) <!-- Replace "username" with your actual GitHub username -->
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&label=GitHub)](https://github.com/raimondoDiSangro) 
 
 ---
 
