@@ -70,7 +70,7 @@ I specialize in data acquisition, SQL optimization, and coding.
 ## 📫 Contact Me
 
 - LinkedIn: [Vincenzo Martemucci](https://www.linkedin.com/in/vincenzo-m-9197a553/)
-- GitHub: [raimondoDiSangro](https://www.instagram.com/raimondoDiSangro/)
+- GitHub: [raimondoDiSangro](https://www.github.com/raimondoDiSangro/)
 
 Feel free to reach out for collaborations, job opportunities, or connect!
 
