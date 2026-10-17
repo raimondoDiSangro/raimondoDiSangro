@@ -29,6 +29,8 @@ I like turning raw data into something useful: pipelines that clean and model it
 | [**co2-emissions-predictor**](https://github.com/raimondoDiSangro/co2-emissions-predictor) | Desktop app that predicts a car's CO₂ emissions (Random Forest) and recommends similar cars (K-Means) | Python · scikit-learn · pandas · Tkinter |
 | [**fake-news-detection**](https://github.com/raimondoDiSangro/fake-news-detection) | NLP text classifier for fake vs real news: TF-IDF with Naive Bayes and Logistic Regression | Python · scikit-learn · NLP |
 | [**heart-disease-prediction**](https://github.com/raimondoDiSangro/heart-disease-prediction) | EDA and a logistic-regression classifier on clinical data | Python · pandas · scikit-learn · seaborn |
+| [**hn-article-scraper**](https://github.com/raimondoDiSangro/hn-article-scraper) | CLI that collects Hacker News front-page stories and extracts each article's text to the console or TXT/CSV files | Python · requests · BeautifulSoup |
+| [**pdf-text-analyzer**](https://github.com/raimondoDiSangro/pdf-text-analyzer) | CLI that extracts text from PDFs and runs a spaCy pass: tokenization, stop-word removal, top terms | Python · pypdf · spaCy · NLP |
 | [**chess-cli-java**](https://github.com/raimondoDiSangro/chess-cli-java) | Terminal chess game with algebraic notation, castling and en passant, plus 99 unit tests, built by a 7-person Scrum team | Java · Gradle · JUnit 5 · Docker |
 
 ---
@@ -53,6 +55,7 @@ I like turning raw data into something useful: pipelines that clean and model it
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
 ![seaborn](https://img.shields.io/badge/seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
 ![LLM APIs](https://img.shields.io/badge/LLM_APIs-Groq_%7C_Claude-6E56CF?style=flat-square)
 
 **Tools**<br/>
