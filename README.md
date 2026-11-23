@@ -14,12 +14,24 @@ I work where data, applications and customers meet. I trace problems to their ro
 
 ## Experience
 
-| Role | Company | When |
-|---|---|---|
-| **Senior Support Analyst**: Tier 3 escalation point for data, reporting and application issues (SQL, ETL validation, Datadog, REST APIs) | MTech Systems, Atlanta | May 2025 – present |
-| **Report Developer / Report Developer II**: built and maintained customer reporting; coordinated a team that grew from 3 to 5, including offshore developers | Rev.io | Dec 2022 – May 2025 |
+**Senior Support Analyst · MTech Systems** · May 2025 – present
+- Tier 3 escalation point, coordinating diagnostics across Product, Engineering and QA
+- Standardized troubleshooting workflows and diagnostic templates, reducing resolution variance across analysts
+- Wrote internal documentation and training materials for the support team
 
-Earlier: application support at InformData, and IT consulting in Italy.
+**Report Developer II · Rev.io** · Jul 2024 – May 2025
+- Designed and maintained 50+ Power BI dashboards and data models for executive reporting
+- Cut report development turnaround by 55% through SQL optimization and workflow changes
+- Set up Datadog monitoring for proactive issue detection, reducing resolution time by 15%
+
+**Report Developer · Rev.io** · Dec 2022 – Jul 2024
+- Tier 2 escalation point for client reporting requests, meeting SLAs
+- Built custom client reports and flagged SLA risks early
+
+**Application Support Specialist · InformData** · Jul 2022 – Dec 2022
+- Supported API-based integrations and diagnosed multi-database issues with SQL and logs; cut resolution time by 30%
+
+Earlier: IT consulting in Italy.
 
 **Education:** B.Sc. Computer Science, University of Bari (2022) · Diploma in Opera Singing, Conservatorio "E.R. Duni", Matera (2013)
 
