@@ -10,11 +10,18 @@
 
 ## About
 
-I work where data, applications and customers meet. As a **Senior Support Analyst** in B2B SaaS, I'm the Tier 3 escalation point for data, reporting and application issues: I trace problems to their root cause with SQL, ETL validation, logs and API calls, and I hand engineering clear, actionable findings.
+I work where data, applications and customers meet. I trace problems to their root cause with SQL, ETL validation, logs and API calls, and I hand engineering clear, actionable findings. On my own time I build in Python: LLM-powered pipelines, scrapers and machine-learning projects.
 
-Before that I was a **Report Developer**, building and maintaining reporting for a SaaS platform and coordinating a growing team that included offshore developers. I hold a **B.Sc. in Computer Science** from the University of Bari.
+## Experience
 
-On my own time I build in Python: LLM-powered pipelines, scrapers and machine-learning projects. This is where I explore the tools I want to bring into support and data work.
+| Role | Company | When |
+|---|---|---|
+| **Senior Support Analyst**: Tier 3 escalation point for data, reporting and application issues (SQL, ETL validation, Datadog, REST APIs) | MTech Systems, Atlanta | May 2025 – present |
+| **Report Developer / Report Developer II**: built and maintained customer reporting; coordinated a team that grew from 3 to 5, including offshore developers | Rev.io | Dec 2022 – May 2025 |
+
+Earlier: application support at InformData, and IT consulting in Italy.
+
+**Education:** B.Sc. Computer Science, University of Bari (2022) · Diploma in Opera Singing, Conservatorio "E.R. Duni", Matera (2013)
 
 ---
 
@@ -43,7 +50,7 @@ More: [hn-article-scraper](https://github.com/raimondoDiSangro/hn-article-scrape
 
 ---
 
-**Beyond code:** I'm also a classically trained tenor. Over a decade I performed opera and concerts across Italy, Germany, Spain, Turkey and Hungary, including the Teatro Municipale di Piacenza chorus in a *La Gioconda* broadcast on Rai 5.
+**Beyond code:** I'm a classically trained tenor. I spent a decade performing opera and concerts in Italy, Germany, Spain, Turkey and Hungary, including a *La Gioconda* run broadcast on Rai 5.
 
 ---
 
