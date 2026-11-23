@@ -35,6 +35,8 @@ Earlier: IT consulting in Italy.
 
 **Education:** B.Sc. Computer Science, University of Bari (2022) · Diploma in Opera Singing, Conservatorio "E.R. Duni", Matera (2013)
 
+**Certifications:** Claude Code in Action (Anthropic) · Supervised Learning with scikit-learn (DataCamp)
+
 ---
 
 ## Featured projects
