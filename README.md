@@ -16,8 +16,6 @@ Before that I was a **Report Developer**, building and maintaining reporting for
 
 On my own time I build in Python: LLM-powered pipelines, scrapers and machine-learning projects. This is where I explore the tools I want to bring into support and data work.
 
-**Currently working on:** an end-to-end analytics pipeline on the Olist Brazilian e-commerce dataset (100K+ orders) with dbt and Snowflake. Repo coming soon.
-
 ---
 
 ## Featured projects
@@ -42,6 +40,10 @@ More: [hn-article-scraper](https://github.com/raimondoDiSangro/hn-article-scrape
 **Python & AI:** scikit-learn · spaCy · requests / BeautifulSoup · LLM APIs (Groq, Claude)
 
 **Engineering:** Git · GitHub Actions · Docker · Java · unit testing
+
+---
+
+**Fun fact:** before computer science, I trained as an opera singer. I hold a master's in Classical Voice from the Conservatory "E.R. Duni" in Matera, Italy, and I'm building my singing career here in Atlanta. Debugging and performing turn out to need the same thing: staying calm when something goes wrong live.
 
 ---
 
