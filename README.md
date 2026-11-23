@@ -10,7 +10,7 @@
 
 ## About
 
-I work where data, applications and customers meet. I trace problems to their root cause with SQL, ETL validation, logs and API calls, and I hand engineering clear, actionable findings. On my own time I build in Python: LLM-powered pipelines, scrapers and machine-learning projects.
+Tier 3 support and data professional. I find root causes with SQL, logs and APIs, and build Python and LLM tools on the side.
 
 ## Experience
 
