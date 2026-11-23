@@ -2,11 +2,10 @@
 <h3 align="center">Data & Analytics Engineering · Machine Learning · Python</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/vincenzo-m-9197a553/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:vincenzomartemucci@protonmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<!-- TODO: replace YOUR-LINKEDIN and YOUR-EMAIL@example.com above with your real profile and address -->
 
 ---
 
@@ -14,7 +13,7 @@
 
 I like turning raw data into something useful: pipelines that clean and model it, ML models that learn from it, and tools that make it easy to use.
 
-- 🛠️ **Data / analytics engineering**: SQL, **dbt** and **Snowflake**, with **Power BI** for reporting. Currently building an end-to-end analytics pipeline on the Olist Brazilian e-commerce dataset (100K+ orders).
+- 🛠️ **Data / analytics engineering**: SQL, **dbt** and **Snowflake**, with **Power BI** for reporting. In progress: an end-to-end analytics pipeline on the Olist Brazilian e-commerce dataset (100K+ orders); repo coming soon.
 - 🤖 **Machine learning**: regression, classification, clustering and NLP with **scikit-learn** and **pandas**, from EDA to evaluation.
 - 🕸️ **Python automation**: web scraping (requests, BeautifulSoup) combined with **LLM APIs** (Groq, Anthropic).
 - ☕ **Software engineering**: Java and OOP design, unit testing (JUnit), Gradle, Docker, and Scrum teamwork. Computer Science studies at the University of Bari.
