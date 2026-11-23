@@ -43,7 +43,7 @@ More: [hn-article-scraper](https://github.com/raimondoDiSangro/hn-article-scrape
 
 ---
 
-**Fun fact:** before computer science, I trained as an opera singer. I hold a master's in Classical Voice from the Conservatory "E.R. Duni" in Matera, Italy, and I'm building my singing career here in Atlanta. Debugging and performing turn out to need the same thing: staying calm when something goes wrong live.
+**Fun fact:** I'm also a classically trained opera singer.
 
 ---
 
