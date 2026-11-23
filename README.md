@@ -1,78 +1,48 @@
-<h1 align="center">Hi, I'm Vincenzo 👋</h1>
-<h3 align="center">Data & Analytics Engineering · Machine Learning · Python</h3>
+<h1 align="center">Vincenzo Martemucci</h1>
+<h3 align="center">Technical Support & Data Engineering · SQL · Python · AI-assisted tooling</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vincenzo-m-9197a553/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:vincenzomartemucci@protonmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:vincenzomartemucci@protonmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/></a>
 </p>
-
 
 ---
 
-## About me
+## About
 
-I like turning raw data into something useful: pipelines that clean and model it, ML models that learn from it, and tools that make it easy to use.
+I work where data, applications and customers meet. As a **Senior Support Analyst** in B2B SaaS, I'm the Tier 3 escalation point for data, reporting and application issues: I trace problems to their root cause with SQL, ETL validation, logs and API calls, and I hand engineering clear, actionable findings.
 
-- 🛠️ **Data / analytics engineering**: SQL, **dbt** and **Snowflake**, with **Power BI** for reporting. In progress: an end-to-end analytics pipeline on the Olist Brazilian e-commerce dataset (100K+ orders); repo coming soon.
-- 🤖 **Machine learning**: regression, classification, clustering and NLP with **scikit-learn** and **pandas**, from EDA to evaluation.
-- 🕸️ **Python automation**: web scraping (requests, BeautifulSoup) combined with **LLM APIs** (Groq, Anthropic).
-- ☕ **Software engineering**: Java and OOP design, unit testing (JUnit), Gradle, Docker, and Scrum teamwork. Computer Science studies at the University of Bari.
+Before that I was a **Report Developer**, building and maintaining reporting for a SaaS platform and coordinating a growing team that included offshore developers. I hold a **B.Sc. in Computer Science** from the University of Bari.
+
+On my own time I build in Python: LLM-powered pipelines, scrapers and machine-learning projects. This is where I explore the tools I want to bring into support and data work.
+
+**Currently working on:** an end-to-end analytics pipeline on the Olist Brazilian e-commerce dataset (100K+ orders) with dbt and Snowflake. Repo coming soon.
 
 ---
 
 ## Featured projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**llm-news-rewriter**](https://github.com/raimondoDiSangro/llm-news-rewriter) | Config-driven scraper that pulls the most-read articles from a news site and rewrites them with an LLM | Python · BeautifulSoup · Groq / Claude |
-| [**co2-emissions-predictor**](https://github.com/raimondoDiSangro/co2-emissions-predictor) | Desktop app that predicts a car's CO₂ emissions (Random Forest) and recommends similar cars (K-Means) | Python · scikit-learn · pandas · Tkinter |
-| [**fake-news-detection**](https://github.com/raimondoDiSangro/fake-news-detection) | NLP text classifier for fake vs real news: TF-IDF with Naive Bayes and Logistic Regression | Python · scikit-learn · NLP |
-| [**heart-disease-prediction**](https://github.com/raimondoDiSangro/heart-disease-prediction) | EDA and a logistic-regression classifier on clinical data | Python · pandas · scikit-learn · seaborn |
-| [**hn-article-scraper**](https://github.com/raimondoDiSangro/hn-article-scraper) | CLI that collects Hacker News front-page stories and extracts each article's text to the console or TXT/CSV files | Python · requests · BeautifulSoup |
-| [**pdf-text-analyzer**](https://github.com/raimondoDiSangro/pdf-text-analyzer) | CLI that extracts text from PDFs and runs a spaCy pass: tokenization, stop-word removal, top terms | Python · pypdf · spaCy · NLP |
-| [**chess-cli-java**](https://github.com/raimondoDiSangro/chess-cli-java) | Terminal chess game with algebraic notation, castling and en passant, plus 99 unit tests, built by a 7-person Scrum team | Java · Gradle · JUnit 5 · Docker |
+| Project | What it does | Highlights | Stack |
+|---|---|---|---|
+| [**llm-news-rewriter**](https://github.com/raimondoDiSangro/llm-news-rewriter) | Scrapes a news site's most-read articles and rewrites them with an LLM | Config-driven; strict-JSON output with fallback parsing; falls back to the original article if the LLM call fails | Python · BeautifulSoup · Groq / Claude |
+| [**fake-news-detection**](https://github.com/raimondoDiSangro/fake-news-detection) | Classifies news articles as fake or real | TF-IDF + Logistic Regression at 0.984 accuracy on 8,980 held-out articles; documents a data-leakage caveat | Python · scikit-learn · NLP |
+| [**co2-emissions-predictor**](https://github.com/raimondoDiSangro/co2-emissions-predictor) | Predicts a car's CO₂ emissions and suggests similar cars | Random Forest tuned with GridSearchCV and 10-fold CV; K-Means recommendations; Tkinter GUI | Python · scikit-learn · pandas |
+| [**chess-cli-java**](https://github.com/raimondoDiSangro/chess-cli-java) | Terminal chess game in standard algebraic notation | 7-person Scrum team; 99 JUnit tests; CI and Docker | Java · Gradle · JUnit 5 |
+
+More: [hn-article-scraper](https://github.com/raimondoDiSangro/hn-article-scraper) · [pdf-text-analyzer](https://github.com/raimondoDiSangro/pdf-text-analyzer) · [heart-disease-prediction](https://github.com/raimondoDiSangro/heart-disease-prediction)
 
 ---
 
-## Tech stack
+## Skills
 
-**Languages**<br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+**Data & reporting:** SQL · ETL validation · Power BI / DAX · dbt · Snowflake · pandas
 
-**Data & analytics**<br/>
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+**Support & troubleshooting:** Root-cause analysis · Datadog · REST APIs · Escalation and runbook writing
 
-**Machine learning & AI**<br/>
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
-![seaborn](https://img.shields.io/badge/seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
-![LLM APIs](https://img.shields.io/badge/LLM_APIs-Groq_%7C_Claude-6E56CF?style=flat-square)
+**Python & AI:** scikit-learn · spaCy · requests / BeautifulSoup · LLM APIs (Groq, Claude)
 
-**Tools**<br/>
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+**Engineering:** Git · GitHub Actions · Docker · Java · unit testing
 
 ---
 
-## GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raimondoDiSangro&show_icons=true&hide_border=true&count_private=false" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimondoDiSangro&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
-
----
-
-<p align="center"><i>Open to opportunities in data engineering, analytics engineering and ML. Feel free to reach out.</i></p>
+<p align="center"><i>Based in the Atlanta area · Italian / English</i></p>
