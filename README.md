@@ -43,7 +43,7 @@ More: [hn-article-scraper](https://github.com/raimondoDiSangro/hn-article-scrape
 
 ---
 
-**Fun fact:** I'm also a classically trained opera singer.
+**Beyond code:** I'm also a classically trained tenor. Over a decade I performed opera and concerts across Italy, Germany, Spain, Turkey and Hungary, including the Teatro Municipale di Piacenza chorus in a *La Gioconda* broadcast on Rai 5.
 
 ---
 
